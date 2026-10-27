@@ -1,0 +1,13 @@
+# Final project: already its own repo (github.com/BenjaminAHS/neural-network-project)
+neural-network-project/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Data downloaded by make_wikiart_subset.py
+data/
+
+# Office temp files
+~$*
